@@ -1,6 +1,7 @@
 #include <stdio.h>  
    
-Big() {  
+big() 
+{  
     int a, b;  
     printf("Please Enter Two different values\n");  
     scanf("%d %d", &a, &b);  
